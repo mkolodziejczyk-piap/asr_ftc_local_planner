@@ -170,7 +170,7 @@ namespace ftc_local_planner
         //rotation velocity of previous round for the dirveToward methode
         double cmd_vel_angular_z_;
 
-        JoinCostmap *joinCostmap_;
+        // JoinCostmap *joinCostmap_;
 
     };
 };
